@@ -134,7 +134,7 @@ export const About = () => {
               <div className="space-y-4 text-gray-300">
                 <div>
                   <h4 className="font-semibold">
-                    Intern at Hindalco Industries Ltd (Aditya Birla Grp), Ranchi
+                    Intern at Hindalco Industries Ltd (Aditya Birla Group), Ranchi
                     (Aug - Sep 2024)
                   </h4>
                   <br />
