@@ -106,11 +106,11 @@ export const Projects = () => {
             <div className="p-6 rounded-xl border border-white/10 hover:-translate-y-1 hover:border-blue-500/30 hover:shadow-[0_2px_8px_rgba(59,130,246,0.2)] transition">
               <h3 className="text-xl font-bold mb-2">TradeHive</h3>
               <p className="text-gray-400 mb-4">
-                Developed a full-stack trading app inspired from Zerodha with
-                user authentication, live order execution, portfolio tracking,
-                and holdings management. Used Node.js, Express, MongoDB
-                (Mongoose), and React.js with modular components and state
-                management. Followed RESTful APIs and MVC architecture.
+                Developed a Zerodha-inspired trading platform with user auth,
+                live order execution, portfolio tracking, and holdings
+                management using the MERN stack. Followed MVC architecture and
+                built modular components with RESTful APIs and efficient state
+                management.
               </p>
               <div className="flex flex-wrap gap-2 mb-4">
                 {["React.js", "Node.js", "MongoDB", "Bcrypt", "JWT"].map(
